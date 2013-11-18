@@ -20,6 +20,7 @@ lihai 33l...
 liuhongwei add a line for testing 
 lihai l....
 zhangjin	+1
+liuhongwei add a text on "pinguo/lession1" at 20:37
 liuzhaohui http://rogerdudler.github.io/git-guide/index.zh.html
 shenqiang -- contribut to yangbing
 lihai at 11
