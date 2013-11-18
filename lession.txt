@@ -7,6 +7,7 @@ liuhongwei +2 at 19:45
 contributor -- shenqiang
 contributor -- yangbing
 liuhongwei add a line for testing 
+lihai l....
 zhangjin	+1
 liuzhaohui http://rogerdudler.github.io/git-guide/index.zh.html
 lihai at 11
