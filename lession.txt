@@ -1,7 +1,21 @@
+﻿inited at 1
+majianguang  123456
+majianguang aabbccdd
+majianguang aabbccdd
+majianguang aabbccdd
+majianguang aabbccdd
+majianguang aabbccdd
+majianguang aabbccdd
+majianguang aabbccdd
+
 inited at 1 by goingta
 inited at 1 by zhangzhi
 test over
 inited at 1
+lihai at fff2
+lihai at 3
+liaofeng +1
+create line-by hehailin
 majianguang test1
 fenghaiting test2
 lihai at 2
@@ -16,6 +30,7 @@ lihai 33l...
 liuhongwei add a line for testing 
 lihai l....
 zhangjin	+1
+liuhongwei add a text on "pinguo/lession1" at 20:37
 liuzhaohui http://rogerdudler.github.io/git-guide/index.zh.html
 shenqiang -- contribut to yangbing
 lihai at 11
@@ -24,3 +39,8 @@ yangbing at 12
 
 
 add by tanglei 21:02
+majianguang 2052
+hehailin +1024
+fenghaiting 2013/11/18
+
+add by tanglei 21:10
