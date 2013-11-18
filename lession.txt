@@ -2,6 +2,6 @@ inited at 1
 liuhongwei +2 at 19:45
 contributor -- shenqiang
 contributor -- yangbing
+liuhongwei add a line for testing 
 zhangjin	+1
 liuzhaohui http://rogerdudler.github.io/git-guide/index.zh.html
-冲突？
