@@ -1,7 +1,4 @@
 inited at 1
-<<<<<<< HEAD
 zhangjin	+1
 liuzhaohui http://rogerdudler.github.io/git-guide/index.zh.html
-=======
 liuhongwei add a line for testing 
->>>>>>> source/master
