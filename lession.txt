@@ -1,4 +1,5 @@
 inited at 1
+
 majianguang  123456
 majianguang aabbccdd
 majianguang aabbccdd
@@ -7,3 +8,17 @@ majianguang aabbccdd
 majianguang aabbccdd
 majianguang aabbccdd
 majianguang aabbccdd
+
+majianguang test1
+fenghaiting test2
+lihai at 2
+changed by pinguo-baiziying at 2
+changed by pinguo-baiziying at 3
+lihai at 4
+liuhongwei +2 at 19:45
+contributor -- shenqiang
+contributor -- yangbing
+liuhongwei add a line for testing 
+zhangjin	+1
+liuzhaohui http://rogerdudler.github.io/git-guide/index.zh.html
+
