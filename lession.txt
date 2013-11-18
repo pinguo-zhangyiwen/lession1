@@ -13,3 +13,4 @@ lihai l....
 zhangjin	+1
 liuzhaohui http://rogerdudler.github.io/git-guide/index.zh.html
 lihai at 11
+liuhongwei resolved conflicts at 20:26
