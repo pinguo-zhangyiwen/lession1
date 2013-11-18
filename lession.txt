@@ -1,4 +1,6 @@
 inited at 1
+
+contributor -- shenqiang
+contributor -- yangbing
 zhangjin	+1
 liuzhaohui http://rogerdudler.github.io/git-guide/index.zh.html
-liuhongwei add a line for testing 
