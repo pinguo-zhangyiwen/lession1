@@ -1,2 +1,6 @@
 inited at 1
+<<<<<<< HEAD
 My name is liaofeng
+=======
+create line-by hehailin
+>>>>>>> hehailin/master
