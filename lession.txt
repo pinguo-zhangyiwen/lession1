@@ -1,4 +1,6 @@
 inited at 1
+majianguang test1
+fenghaiting test2
 lihai at 2
 changed by pinguo-baiziying at 2
 changed by pinguo-baiziying at 3
