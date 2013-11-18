@@ -1,4 +1,13 @@
 ﻿inited at 1
+majianguang  123456
+majianguang aabbccdd
+majianguang aabbccdd
+majianguang aabbccdd
+majianguang aabbccdd
+majianguang aabbccdd
+majianguang aabbccdd
+majianguang aabbccdd
+
 inited at 1 by goingta
 inited at 1 by zhangzhi
 test over
@@ -27,4 +36,6 @@ shenqiang -- contribut to yangbing
 lihai at 11
 liuhongwei resolved conflicts at 20:26
 yangbing at 12
+majianguang 2052
 hehailin +1024
+fenghaiting 2013/11/18
