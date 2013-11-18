@@ -1,4 +1,5 @@
 inited at 1
+liaofeng +1
 create line-by hehailin
 lihai at 2
 changed by pinguo-baiziying at 2
@@ -10,4 +11,3 @@ contributor -- yangbing
 liuhongwei add a line for testing 
 zhangjin	+1
 liuzhaohui http://rogerdudler.github.io/git-guide/index.zh.html
-
