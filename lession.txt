@@ -1,4 +1,6 @@
 inited at 1
+majianguang test1
+fenghaiting test2
 lihai at 2
 changed by pinguo-baiziying at 2
 changed by pinguo-baiziying at 3
@@ -12,5 +14,7 @@ liuhongwei add a line for testing
 lihai l....
 zhangjin	+1
 liuzhaohui http://rogerdudler.github.io/git-guide/index.zh.html
+shenqiang -- contribut to yangbing
 lihai at 11
 liuhongwei resolved conflicts at 20:26
+yangbing at 12
