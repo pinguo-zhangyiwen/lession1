@@ -1,5 +1,10 @@
+﻿inited at 1
+inited at 1 by goingta
+inited at 1 by zhangzhi
+test over
 inited at 1
-liaofeng +2
+liaofeng +2 21:03
+liaofeng +1
 create line-by hehailin
 majianguang test1
 fenghaiting test2
@@ -21,3 +26,5 @@ shenqiang -- contribut to yangbing
 lihai at 11
 liuhongwei resolved conflicts at 20:26
 yangbing at 12
+hehailin +1024
+add new line 1111
