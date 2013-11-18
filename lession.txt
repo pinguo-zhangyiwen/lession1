@@ -1,2 +1,3 @@
 inited at 1
+zhangjin	+1
 liuzhaohui http://rogerdudler.github.io/git-guide/index.zh.html
