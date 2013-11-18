@@ -9,3 +9,4 @@ contributor -- yangbing
 liuhongwei add a line for testing 
 zhangjin	+1
 liuzhaohui http://rogerdudler.github.io/git-guide/index.zh.html
+shenqiang -- contribut to yangbing
