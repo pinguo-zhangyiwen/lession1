@@ -15,6 +15,7 @@ lihai l....
 zhangjin	+1
 liuhongwei add a text on "pinguo/lession1" at 20:37
 liuzhaohui http://rogerdudler.github.io/git-guide/index.zh.html
+liuhongwei add another text on "pinguo/lession1" at 21:33 
 shenqiang -- contribut to yangbing
 lihai at 11
 liuhongwei resolved conflicts at 20:26
