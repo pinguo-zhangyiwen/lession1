@@ -1,4 +1,14 @@
 inited at 1
+
+majianguang  123456
+majianguang aabbccdd
+majianguang aabbccdd
+majianguang aabbccdd
+majianguang aabbccdd
+majianguang aabbccdd
+majianguang aabbccdd
+majianguang aabbccdd
+
 majianguang test1
 fenghaiting test2
 lihai at 2
@@ -11,3 +21,4 @@ contributor -- yangbing
 liuhongwei add a line for testing 
 zhangjin	+1
 liuzhaohui http://rogerdudler.github.io/git-guide/index.zh.html
+
